@@ -1,0 +1,17 @@
+a=int(input("enter number of lines of pattern to be printed:"))
+for i in range(0,a):
+    for j in range(i):
+        print("*",end="")
+    for j in range(2*(a-i)):
+        print(" ",end="")
+    for j in range(i):
+        print("*",end="")
+    print()
+for k in reversed(range(0,a+1)):
+    for l in range(k):
+        print("*",end="")
+    for l in range(2*(a-k)):
+        print(" ",end="")
+    for l in range(k):
+        print("*",end="")
+    print()
