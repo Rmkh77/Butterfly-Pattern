@@ -3,4 +3,7 @@
 
 
 10 rows:
+
+
+
 ![image](https://github.com/Rmkh77/Butterfly-Pattern/assets/103126968/068a034e-ec9f-469e-843f-375c75822851)
